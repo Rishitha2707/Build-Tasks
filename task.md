@@ -69,3 +69,5 @@ curl http://<your-ip>:8080/manager
 Or open in your browser:
 http://<your-ip>:8080/manager/html
 Use the credentials you set earlier (admin / admin).
+
+![Image](https://github.com/user-attachments/assets/d164da65-6984-4560-a740-580033780113)
