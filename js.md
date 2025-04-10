@@ -84,7 +84,7 @@ After completing the steps above, your Portfolio website should now be live on y
 Open a browser and go to the server's IP address or domain name.
 
 Example:
-http://your_server_ip/
+http://3.91.151.120/
 
 You should see the deployed Portfolio-Website
 
@@ -94,8 +94,6 @@ If you want to make sure Apache automatically starts on boot, you can enable and
 sudo systemctl enable apache2  # Enable Apache to start on boot
 sudo systemctl start apache2   # Start Apache service if it's not already running
 
-You can also check Apache logs for any issues if things are not working as expected:
-sudo tail -f /var/log/apache2/error.log  # View Apache error log in real time
 
 
 
