@@ -15,20 +15,27 @@ java --version
 ✅ You installed OpenJDK 11, which is required to run the project and Tomcat.
 
 
+
+
 2. Install Maven
 ```bash
 sudo apt install maven -y
 ```
 ✅ Maven is needed to build the project and generate the .war file.
 
-4. Clone the GitHub Repository
+
+
+3. Clone the GitHub Repository
 ```bash
 git clone https://github.com/koddas/war-web-project.git
 cd war-web-project
 ```
 📁 This downloads the source code of the project to your local machine.
 
-5. Build the Project Using Maven
+
+
+
+4. Build the Project Using Maven
 ```bash
 mvn package
 ```
@@ -40,7 +47,9 @@ ls target/
 ```
 Look for something like war-web-project.war.
 
-5. Download and Extract Apache Tomcat
+
+
+5.Download and Extract Apache Tomcat
 ```bash
 wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.104/bin/apache-tomcat-9.0.104.tar.gz
 tar -xvf apache-tomcat-9.0.104.tar.gz
@@ -48,7 +57,9 @@ cd apache-tomcat-9.0.104
 ```
 🧰 Apache Tomcat is the servlet container where we will deploy the WAR file.
 
-7. Configure Tomcat Users for Web Manager Access
+
+
+6. Configure Tomcat Users for Web Manager Access
 Edit the tomcat-users.xml file:
 ```bash
 cd conf/
@@ -74,6 +85,9 @@ Comment out or remove the IP-based restrictions:
        allow="127\.\d+\.\d+\.\d+|::1|0:0:0:0:0:0:0:1" /> -->
 ```
 
+
+
+
 7. Deploy WAR File to Tomcat
 Copy the WAR file into the webapps/ folder:
 ```bash
@@ -81,7 +95,10 @@ sudo cp ~/war-web-project/target/*.war ~/war-web-project/apache-tomcat-9.0.104/w
 ```
 🚀 Tomcat will auto-deploy WAR files placed in webapps/.
 
-9. Start the Tomcat Server
+
+
+
+8. Start the Tomcat Server
 ```bash
 cd ~/war-web-project/apache-tomcat-9.0.104/bin
 ./startup.sh
