@@ -6,16 +6,17 @@ Before starting, make sure you have:
 Make sure to install the versions according to the requirement.
 
 🔧 Step-by-Step Setup
-```bash
 1. Install Java
+```bash
 sudo apt update
 sudo apt install openjdk-11-jre-headless -y
 java --version
-✅ You installed OpenJDK 11, which is required to run the project and Tomcat.
 ```
+✅ You installed OpenJDK 11, which is required to run the project and Tomcat.
+
 
 2. Install Maven
-3. ```bash
+```bash
 sudo apt install maven -y
 ```
 ✅ Maven is needed to build the project and generate the .war file.
