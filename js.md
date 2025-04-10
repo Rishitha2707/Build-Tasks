@@ -124,6 +124,7 @@ sudo systemctl start apache2   # Start Apache service if it's not already runnin
 
 Output:
 
+![Image](https://github.com/user-attachments/assets/bbb0a779-7568-410d-a913-9d1568e8f4bf)
 
 
 
