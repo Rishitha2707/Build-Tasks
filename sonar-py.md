@@ -147,3 +147,5 @@ Click it to view:
 Bugs
 Vulnerabilities
 Code smells
+
+![Image](https://github.com/user-attachments/assets/360e5956-c8ff-4a99-a5dc-e8070e2f43d2)
