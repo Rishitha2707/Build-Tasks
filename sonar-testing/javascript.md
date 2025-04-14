@@ -151,3 +151,4 @@ Code Smells
 Duplications
 Maintainability metrics
 
+![Image](https://github.com/user-attachments/assets/cbd04f3a-0eff-4fbf-a002-09d036d48119)
