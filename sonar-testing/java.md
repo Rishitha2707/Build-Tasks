@@ -125,3 +125,4 @@ You will now see:
 2.Code quality metrics
 3.Bugs, vulnerabilities, and code smells
 
+![Image](https://github.com/user-attachments/assets/5dcbb9e4-5bdc-421e-b9a0-1244fbcaf66e)
