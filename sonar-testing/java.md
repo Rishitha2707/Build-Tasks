@@ -2,10 +2,15 @@
 
 📦 Step 2: Update and Install Required Software
 Update System Packages
+```bash
 sudo apt update
+```
+  
 Check Git Installation
+```bash
 git --version
-
+```
+  
 If Git is not installed, install it using:
 sudo apt install git
 
