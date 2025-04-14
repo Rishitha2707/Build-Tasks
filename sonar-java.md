@@ -133,3 +133,5 @@ Project name
 Code quality metrics
 Bugs, vulnerabilities, and code smells
 
+![Image](https://github.com/user-attachments/assets/265d7524-30cf-4600-87a0-c2e1060047a6)
+
