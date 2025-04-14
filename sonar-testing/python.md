@@ -133,7 +133,8 @@ Refresh the SonarQube page
 You should now see your Python project listed
 
 Click it to view:
-
 Bugs
 Vulnerabilities
 Code smells
+
+![Image](https://github.com/user-attachments/assets/405468f4-b7a3-4e18-9420-19c96687cb8d)
