@@ -80,7 +80,7 @@ Nexus UI: http://<your-nexus-ip>:8081
 
 You can see nexus server:
 
-![Image](https://github.com/user-attachments/assets/90ad780c-ea0c-4d18-8cfe-dd1038665472)
+![Image](https://github.com/user-attachments/assets/31daf226-e22b-46e9-a263-4bc99bed48a5)
 
 
 1.Give login credentials:
