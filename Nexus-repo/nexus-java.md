@@ -75,7 +75,8 @@ sudo systemctl status nexus
 ✅ Useful Nexus URLs:
 ```bash
 Nexus UI: http://<your-nexus-ip>:8081
-```Default portnumber for nexus is 8081
+```
+Default portnumber for nexus is 8081
 
 
 You can see nexus server:
