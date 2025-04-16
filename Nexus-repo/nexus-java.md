@@ -79,6 +79,10 @@ Nexus UI: http://<your-nexus-ip>:8081
 
 
 You can see nexus server:
+
+![Image](https://github.com/user-attachments/assets/90ad780c-ea0c-4d18-8cfe-dd1038665472)
+
+
 1.Give login credentials:
   It will give default credentials-
 ```bash
@@ -137,6 +141,8 @@ Optional step if you want to name the build server for clarity.
 ```bash
  vi pom.xml
 ```
+You can copy the link from maven release URL as shown:
+![Image](https://github.com/user-attachments/assets/d5577ca7-2264-4fd6-a1eb-7124410f62d0)
 
 Update pom.xml by including the following:
 ```bash
@@ -185,3 +191,7 @@ After successful build and correct credentials in settings.xml, Maven uploads ar
 Refresh the nexus server
 Go to browse
 You can see the build java code here as:
+
+![Image](https://github.com/user-attachments/assets/f0eb9336-4f73-4479-b4d1-93729900bb78)
+
+![Image](https://github.com/user-attachments/assets/0aa2b681-b8ca-4988-adb9-fdd69e2b7e1b)
