@@ -28,13 +28,13 @@ sudo apt install npm
 🧾 Step 3: Clone and Build JavaScript Project
 Clone the Repository
 ```bash
-git clone https://github.com/Rishitha2707/Build-Tasks.git
+git clone https://github.com/kevinchappell/formBuilder.git
 ```
 
 
 Navigate to JavaScript Project Directory
 ```bash
-cd Build-Tasks/JS-code/
+cd formBuilder/
 ```
 
 Install Project Dependencies
@@ -151,4 +151,4 @@ Code Smells
 Duplications
 Maintainability metrics
 
-![Image](https://github.com/user-attachments/assets/cbd04f3a-0eff-4fbf-a002-09d036d48119)
+![Image](https://github.com/user-attachments/assets/14b98172-2de4-43b0-ad10-246bd9c1a2b1)
